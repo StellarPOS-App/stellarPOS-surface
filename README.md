@@ -79,7 +79,6 @@ src/
 └── assets/             # Static assets (images, icons, etc.)
 ```
 
-## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js 18+ and npm/yarn
