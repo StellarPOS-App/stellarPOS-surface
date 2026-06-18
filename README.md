@@ -2,11 +2,11 @@
 
 Modern, intuitive point-of-sale frontend application built with React, TypeScript, and Stellar blockchain integration for seamless payment processing.
 
-## 🌟 Overview
+## Overview
 
 StellarPOS Surface is the user-facing frontend application that provides merchants with an intuitive interface to manage sales, process payments via Stellar blockchain, and handle business operations efficiently.
 
-## ⚡ Features
+## Features
 
 ### 💳 Payment Processing
 - **Stellar Payments**: Accept XLM and custom tokens
